@@ -1,0 +1,8 @@
+.grid { margin: 0 auto; }
+.row { overflow: hidden; }
+.block { float: left; width: 20px; height: 20px; background: #fff; border: 1px solid #000; margin: 0 2px 2px 0; }
+.black { background: #000; }
+.result, .description { text-align: center; background: #fff; padding: 10px; }
+.description { margin-top: 5px; }
+.btn { display: inline-block; margin-bottom: 0; font-weight: 400; text-align: center; vertical-align: middle; cursor: pointer; border: 1px solid transparent; white-space: nowrap; padding: 6px 12px; font-size: 14px; line-height: 1.42857143; border-radius: 4px; -webkit-user-select: none; -moz-user-select: none; -ms-user-select: none; user-select: none; }
+.btn:hover { color: #333; background-color: #ebebeb; border-color: #adadad; }
